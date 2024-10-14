@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ 
+
+
+
+
+.img-logo{
+    width: 30PX;
+   
+}
+
+.navbar-brand{
+    font-weight: 600;
+   
+}
+
+span, .logo-text{
+    color: rgb(33, 180, 199) !important;
+    padding-top: 16px;
+   
+}
+
+ h5, h6{
+    color: rgb(33, 180, 199) !important;
+}
+h2{
+    color: rgba(31, 84, 130, 0.822)!important;
+}
+
+
+.serv-car{
+    border: 2px solid rgb(78, 205, 205);
+    border-radius: 13px;
+    box-shadow: 10px  10px 0 0 rgb(20, 121, 184);
+}
+
+
+.icons{
+    color: rgb(119, 212, 224);
+     font-size: 15px;
+     background-color: rgb(186, 227, 233);
+     max-width: 60px;
+      margin: 0 auto; 
+     padding: 9px;
+     border-radius: 300px;
+    
+}
+
+
+h1{
+    color: rgb(33, 124, 194) !important;
+}
+
+
+.team-card{
+   border: 2px solid #000;
+   border-radius: 10px;
+  
+}
+
+
+
+
